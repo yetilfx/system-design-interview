@@ -1,12 +1,18 @@
 # Initial page
 
-## Can I become who I want to be?
+## 简述你了解的实现可扩展性的手段？
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+## 如果采用微服务架构，你建议的服务的拆分原则有哪些？
 
-## Have you had a chance to answer the previous question?
+## 简述CAP原理？
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+## 简述最终一致性？
+
+## 简述最终一致性有哪些常见的补偿措施？
+
+## 列举常见的负载均衡策略，和对应的使用场景或考量因素
+
+## 在队列的使用中，生产者的速率大于消费者速率，如何处理？
 
 
 
